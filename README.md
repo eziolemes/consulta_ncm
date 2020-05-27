@@ -2,6 +2,10 @@
 
 projeto para testar nossos conhecimentos
 
+## Projeto Front-End que consome API que consulta NCM através de raspagem de dados.
+
+https://github.com/ItamarAlves/ncm
+
 ## Install the dependencies
 ```bash
 npm install
